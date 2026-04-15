@@ -1,14 +1,14 @@
 {
   "mappings": [
-    "/content/luma-site/language-masters/en:/",
-    "/content/luma-site/language-masters/en/:/en/",
-    "/content/luma-site/configuration:/.helix/config.json",
-    "/content/luma-site/metadata:/metadata.json",
-    "/content/luma-site/redirects:/redirects.json",
-    "/content/luma-site/placeholders:/placeholders.json"
+    "/content/risharma/my-eds-project/language-masters/en:/",
+    "/content/risharma/my-eds-project/language-masters/en/:/en/",
+    "/content/risharma/my-eds-project/configuration:/.helix/config.json",
+    "/content/risharma/my-eds-project/metadata:/metadata.json",
+    "/content/risharma/my-eds-project/redirects:/redirects.json",
+    "/content/risharma/my-eds-project/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/luma-site/",
-    "/content/dam/luma-site/"
+    "/content/risharma/my-eds-project/",
+    "/content/dam/risharma/my-eds-project/"
   ]
 }
